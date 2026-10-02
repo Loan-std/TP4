@@ -20,3 +20,6 @@ variables = {
 print(add.evaluer(variables))
 
 add.tracer("y", [0, 1, 2, 3, 4, 5])
+
+
+print("je suis sofiane :)")
